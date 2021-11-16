@@ -1,0 +1,17 @@
+{
+  "name": "ryno-bot-discord",
+  "version": "1.0.0",
+  "description": "Discord server for Ryno-Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0"
+  }
+}
